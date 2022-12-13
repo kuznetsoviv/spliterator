@@ -1,0 +1,17 @@
+target
+.metadata
+.settings
+.classpath
+.project
+*.class
+*.jar
+*.war
+*.ear
+.idea
+*.iml
+*.swp
+datanucleus.log
+/bin/
+/bin/
+/bin/
+*.log
