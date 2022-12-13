@@ -1,0 +1,2 @@
+# spliterator
+Spliterator example
